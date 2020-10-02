@@ -1,3 +1,3 @@
 # chatty
 
-We creating a chat app with @mfabank
+We creating a chat app with https://github.com/mfabank as use Flutter.
